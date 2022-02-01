@@ -21,6 +21,7 @@
   color: white;
   background-color: var(--google-dark-blue);
   box-shadow: -4px 4px 16px var(--button-shadow-color);
+  text-decoration: none;
 }
 
 .Button:active {
