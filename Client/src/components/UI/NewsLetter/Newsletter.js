@@ -48,6 +48,7 @@ const NewsletterForm = (props) => {
         setError("Please enter your email");
       }else setError("Please enter a valid email");
     }
+    setEmail("")
   }
 
   return (
